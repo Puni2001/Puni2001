@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, C++, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://puni2001.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
