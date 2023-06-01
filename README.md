@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💻 Ask me about **Web Development, C++, DBMS, MySQL**
+- 💻 Ask me about **Web Development**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://puni2001.netlify.app/" target="_blank">Portfolio</a>**
 
