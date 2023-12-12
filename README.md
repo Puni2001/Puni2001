@@ -1,4 +1,4 @@
-<h1 align="center"> 👋🏾 Hi, I'm <a href="https://www.linkedin.com/in/puni2001/" target="_blank"> Punith S   </a></h1>
+<h1 align="center"> 👋🏾 Hi, I'm <a href="https://www.linkedin.com/in/puni2001/" target="_blank"> Punith </a></h1>
 
 
 - 🌱 Learning Never Stops 🚀
