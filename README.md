@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punith S</h1>
+<h1 align="center">Hi 👋, I'm Punith </h1>
 <h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puni2001&label=Profile%20views&color=0e75b6&style=flat" alt="puni2001" /> </p>
