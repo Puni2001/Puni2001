@@ -7,21 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/punith_2001" target="blank"><img src="https://img.shields.io/twitter/follow/punith_2001?logo=twitter&style=for-the-badge" alt="punith_2001" /></a> </p>
 
-- 🔭 I’m currently working on **CMS**
-
-- 🌱 I’m currently learning **Django, AWS**
+- 🔭 I’m currently working as an **SDE**
 
 - 👨‍💻 All of my projects are available at [https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4](https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4)
 
 - 📝 I regularly write articles on [https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4](https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4)
 
-- 💬 Ask me about **Python, Django, MySQL, AWS, Docker & Devops**
-
 - 📫 How to reach me **punithpunith2001@gmail.com**
 
 - 📄 Know about my experiences [https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4](https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4)
-
-- ⚡ Fun fact **I'm introvert**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
