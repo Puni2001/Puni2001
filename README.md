@@ -9,17 +9,7 @@
 
 - 🔭 I’m currently working as an **SDE**
 
-- 👨‍💻 All of my projects are available at [https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4](https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4)
-
-- 📝 I regularly write articles on [https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4](https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4)
-
 - 📫 How to reach me **punithpunith2001@gmail.com**
-
-- 📄 Know about my experiences [https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4](https://www.overleaf.com/project/6610e89ad9ee7e19ffb282c4)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
